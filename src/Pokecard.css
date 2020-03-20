@@ -1,0 +1,8 @@
+.Pokecard {
+  box-shadow: 0px 10px 20px rgba(51, 59, 63, 0.210);
+  border-radius: 10px;
+  width: 250px;
+  padding: 10px;
+  margin: 1rem;
+  background: #fff;
+}
